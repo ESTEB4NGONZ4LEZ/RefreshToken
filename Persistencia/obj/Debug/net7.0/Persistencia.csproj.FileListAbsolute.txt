@@ -1,0 +1,15 @@
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\bin\Debug\net7.0\Persistencia.deps.json
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\bin\Debug\net7.0\Persistencia.dll
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\bin\Debug\net7.0\Persistencia.pdb
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\bin\Debug\net7.0\Dominio.dll
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.csproj.AssemblyReference.cache
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfoInputs.cache
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.AssemblyInfo.cs
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.csproj.CopyComplete
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.dll
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\refint\Persistencia.dll
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\Persistencia.pdb
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Persistencia\obj\Debug\net7.0\ref\Persistencia.dll

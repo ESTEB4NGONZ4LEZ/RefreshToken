@@ -1,0 +1,12 @@
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\bin\Debug\net7.0\Dominio.deps.json
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\bin\Debug\net7.0\Dominio.dll
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\bin\Debug\net7.0\Dominio.pdb
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\Dominio.csproj.AssemblyReference.cache
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\Dominio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfoInputs.cache
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\Dominio.AssemblyInfo.cs
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\Dominio.csproj.CoreCompileInputs.cache
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\Dominio.dll
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\refint\Dominio.dll
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\Dominio.pdb
+C:\Users\Esteban\Documents\Campus\NetCore\RefreshToken\Dominio\obj\Debug\net7.0\ref\Dominio.dll
